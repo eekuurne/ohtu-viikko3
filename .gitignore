@@ -2,3 +2,5 @@
 *.tmp
 /HelloGradle/build
 .gradle/
+/HelloCucumber/.nb-gradle/
+/HelloCucumber/build/
